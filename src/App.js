@@ -5,7 +5,7 @@ import SearchBar from "./Component/SearchBar";
 import Nav from "./Component/Nav";
 import Gallery from "./Component/Gallery";
 
-class App extends Component
+class App extends Component {
 
 constructor () {
     super()
