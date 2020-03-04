@@ -1,10 +1,10 @@
 import React, { Component }from 'react';
 import './App.css';
-import apiKey from "./config";
+import apiKey from "./Config";
 import SearchBar from "./Component/SearchBar";
 import Nav from "./Component/Nav";
 import Gallery from "./Component/Gallery";
-
+import {BrowserRouter  as Router, Route, Link, Switch } from 'react-router-dom'
 class App extends Component {
 
 constructor () {

@@ -5,4 +5,4 @@ const apiSecrete = "495095d45906f3c4"
 
 
 
-export default Config;
+export default apiKey;
